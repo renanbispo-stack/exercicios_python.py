@@ -85,6 +85,6 @@ while True:
     if op==6:
         break
     elif op not in[1,2,3,4,5]:
-        print("opçao invalida")        
+        print("opçao invalid")        
         
             
